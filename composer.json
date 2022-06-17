@@ -1,0 +1,22 @@
+{
+    "name": "kudni/kudni",
+    "description": "A modern php 8 framework with a strong focus on simplicity",
+    "type": "library",
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev",
+        "vimeo/psalm": "4.x-dev",
+        "phpstan/phpstan": "1.7.x-dev",
+        "squizlabs/php_codesniffer": "4.0.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ali Masood",
+            "email": "ali@kudni.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
