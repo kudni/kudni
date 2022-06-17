@@ -3,7 +3,7 @@
     "description": "A modern php 8 framework with a strong focus on simplicity",
     "type": "library",
     "require": {
-
+        "php": ">=8.1"
     },
     "require-dev": {
         "phpunit/phpunit": "10.0.x-dev",
