@@ -22,5 +22,8 @@
     "autoload": {
         "classmap": ["lib/"]
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "scripts": {
+        "test": "phpunit -c config/tests/phpunit.xml"
+    }
 }
